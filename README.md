@@ -2,8 +2,8 @@
 Open Source Software Audit Project on Git including Linux analysis and shell scripts.
 # Open Source Audit Project
 
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name: Bathuluri sai poojitha  
+Roll Number: 24MIM10197
 Software Chosen: Git  
 
 ## Description
