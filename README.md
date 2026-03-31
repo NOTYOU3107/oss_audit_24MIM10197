@@ -2,7 +2,7 @@
 Open Source Software Audit Project on Git including Linux analysis and shell scripts.
 # Open Source Audit Project
 
-Name: Bathuluri sai poojitha  
+Name: Bathuluri sai poojitha   
 Roll Number: 24MIM10197
 Software Chosen: Git  
 
